@@ -9,6 +9,7 @@ module.exports = {
      facebook: `devonnia.miller`,
     },
   },
+  pathPrefix: "/My-Jungle-Lair",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
